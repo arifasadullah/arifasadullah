@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/arifasadullah1" target="blank"><img src="https://img.shields.io/twitter/follow/arifasadullah1?logo=twitter&style=for-the-badge" alt="arifasadullah1" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about anything related to software development.
 
 - 📫 How to reach me **arifasadullah123@gmail.com**
 
