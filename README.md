@@ -1,6 +1,6 @@
 [![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](https://arifasadullah.github.io)
 <h1 align="center">Hi 👋, I'm Arif Asadullah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arifasadullah&label=Profile%20views&color=0e75b6&style=flat" alt="arifasadullah" /> </p>
 <img align="right" alt="Coding" width="1200" height="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
